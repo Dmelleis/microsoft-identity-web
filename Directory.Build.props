@@ -78,7 +78,7 @@
 
   <PropertyGroup Label="Common dependency versions">
     <IdentityModelVersion>8.0.1</IdentityModelVersion>
-    <MicrosoftIdentityClientVersion>4.61.3</MicrosoftIdentityClientVersion>
+    <MicrosoftIdentityClientVersion>4.63.0</MicrosoftIdentityClientVersion>
     <FxCopAnalyzersVersion>3.3.0</FxCopAnalyzersVersion>
     <SystemTextEncodingsWebVersion>4.7.2</SystemTextEncodingsWebVersion>
     <AzureSecurityKeyVaultSecretsVersion>4.6.0</AzureSecurityKeyVaultSecretsVersion>
@@ -92,7 +92,7 @@
     <NetNineRuntimeVersion>9.0.0-preview.6.24327.7</NetNineRuntimeVersion>
     <AspNetCoreNineRuntimeVersion>9.0.0-preview.6.24328.4</AspNetCoreNineRuntimeVersion>
     <!--CVE-2024-30105-->
-    <SystemTextJsonVersion>8.0.4</SystemTextJsonVersion>
+    <SystemTextJsonVersion>9.0.0-preview.6.24327.7</SystemTextJsonVersion>
     <!--CVE-2023-29331-->
     <SystemFormatsAsn1Version>8.0.1</SystemFormatsAsn1Version>
   </PropertyGroup>
