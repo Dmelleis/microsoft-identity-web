@@ -29,6 +29,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Graph.Beta" Version="$(MicrosoftGraphBetaVersion)" />
+    <PackageReference Include="Microsoft.Identity.Client" Version="4.63.0" />
   </ItemGroup>
 
   <ItemGroup>

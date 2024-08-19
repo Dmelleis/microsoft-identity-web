@@ -19,4 +19,8 @@
     <ProjectReference Include="..\..\..\..\src\Microsoft.Identity.Web\Microsoft.Identity.Web.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Identity.Client" Version="4.63.0" />
+  </ItemGroup>
+
 </Project>
